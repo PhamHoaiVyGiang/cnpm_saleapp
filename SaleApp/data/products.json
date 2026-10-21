@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Iphone 16 promax",
+    "price": 20000000,
+    "cate_id": 1,
+    "image": "https://pos.nvncdn.com/a135ac-81120/ps/20250224_ZckCBBHafm.jpeg?v=1740403563"
+  },
+  {
+    "id": 2,
+    "name": "Iphone 15",
+    "price": 20000000,
+    "cate_id": 1,
+    "image": "https://pos.nvncdn.com/a135ac-81120/ps/20250224_ZckCBBHafm.jpeg?v=1740403563"
+  },
+  {
+    "id": 3,
+    "name": "Iphone 13 pro",
+    "price": 20000000,
+    "cate_id": 2,
+    "image": "https://pos.nvncdn.com/a135ac-81120/ps/20250224_ZckCBBHafm.jpeg?v=1740403563"
+  },
+  {
+    "id": 4,
+    "name": "Samsung Galaxy",
+    "price": 20000000,
+    "cate_id": 3,
+    "image": "https://pos.nvncdn.com/a135ac-81120/ps/20250224_ZckCBBHafm.jpeg?v=1740403563"
+  },
+  {
+    "id": 5,
+    "name": "Galaxy zfold",
+    "price": 20000000,
+    "cate_id": 2,
+    "image": "https://pos.nvncdn.com/a135ac-81120/ps/20250224_ZckCBBHafm.jpeg?v=1740403563"
+  },
+  {
+    "id": 6,
+    "name": "Iphone 13",
+    "price": 20000000,
+    "cate_id": 1,
+    "image": "https://pos.nvncdn.com/a135ac-81120/ps/20250224_ZckCBBHafm.jpeg?v=1740403563"
+  }
+]
